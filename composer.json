@@ -1,0 +1,31 @@
+{
+  "name": "izi-dev/merqueo-prueba",
+  "description": "Simulación de futbol",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Freddy vargas",
+      "email": "fjvargas0629@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "IziDev\\Api\\": "apps/api/",
+      "IziDev\\": "src/"
+    }
+  },
+  "require": {
+    "illuminate/collections": "^8.58",
+    "illuminate/support": "^8.58",
+    "illuminate/routing": "^8.58",
+    "illuminate/events": "^8.58",
+    "illuminate/database": "^8.58",
+    "illuminate/container": "^8.58",
+    "ext-soap": "*",
+    "ext-simplexml": "*",
+    "ramsey/uuid": "^4.2",
+    "heroyt/tournament-generator": "^0.5.1",
+    "spatie/simple-excel": "^1.13"
+  }
+}

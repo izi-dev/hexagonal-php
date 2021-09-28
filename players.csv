@@ -1,0 +1,37 @@
+name,age,nationality,position,shirtNumber,photoUrl,team
+David Ospina,33,Colombia,Arquero,1,ospina.jpeg,Colombia
+Davinson Sanchez,25,Colombia,Defensa,3,davinson.jpeg,Colombia
+Yerry Mina,27,Colombia,Defensa,13,yerry.jpeg,Colombia
+Wilmar Barrios,27,Colombia,Medio campo,5,barrios.jpeg,Colombia
+James Rodriguez,30,Colombia,Medio campo,10,james.jpeg,Colombia
+Falcao Garcia,36,Colombia,Delantero,9,falcao.jpeg,Colombia
+Dibu Martinez,33,Argentina,Arquero,1,perfil.jpeg,Argentina
+Nicolas Otamendi,25,Argentina,Defensa,3,martin.jpeg,Argentina
+Gabriel Pezzella,27,Argentina,Defensa,13,perfi.jpeg,Argentina
+Leo Paredes,27,Argentina,Medio campo,5,perfi.jpeg,Argentina
+Leo Messi,30,Argentina,Medio campo,10,perfi.jpeg,Argentina
+Lautaro Martinez,36,Argentina,Delantero,9,perfi.jpeg,Argentina
+Weberton,36,Brasil,Arquero,1,perfi.jpeg,Brasil
+Militao,33,Brasil,Defensa,3,perfi.jpeg,Brasil
+Danilo,25,Brasil,Defensa,13,perfi.jpeg,Brasil
+Nico Casemiro,27,Brasil,Medio campo,5,perfi.jpeg,Brasil
+Neymar Jr,27,Brasil,Medio campo,10,perfi.jpeg,Brasil
+Gabriel Jesus,30,Brasil,Delantero,9,perfi.jpeg,Brasil
+Galindez,25,Ecuador,Arquero,1,perfi.jpeg,Ecuador
+Preciado,27,Ecuador,Defensa,3,perfi.jpeg,Ecuador
+Arboleda,27,Ecuador,Defensa,13,perfi.jpeg,Ecuador
+Gruezo,30,Ecuador,Medio campo,5,perfi.jpeg,Ecuador
+Franco,36,Ecuador,Medio campo,10,perfi.jpeg,Ecuador
+Valencia,33,Ecuador,Delantero,9,perfi.jpeg,Ecuador
+Silva,25,Paraguay,Arquero,1,perfi.jpeg,Paraguay
+Espinosa,27,Paraguay,Defensa,3,perfi.jpeg,Paraguay
+Cubas,30,Paraguay,Defensa,13,perfi.jpeg,Paraguay
+Almiron,36,Paraguay,Medio campo,5,perfi.jpeg,Paraguay
+Romero,36,Paraguay,Medio campo,10,perfi.jpeg,Paraguay
+Avalos,33,Paraguay,Delantero,9,perfi.jpeg,Paraguay
+Gallese,27,Peru,Arquero,1,perfi.jpeg,Peru
+Santamaria,27,Peru,Defensa,3,perfi.jpeg,Peru
+Lopez,30,Peru,Defensa,13,perfi.jpeg,Peru
+Carrillo,36,Peru,Medio campo,5,perfi.jpeg,Peru
+Cueva,33,Peru,Medio campo,10,perfi.jpeg,Peru
+,25,Peru,Delantero,9,perfi.jpeg,Peru
