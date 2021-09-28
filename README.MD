@@ -1,11 +1,11 @@
-#PRUEBAS EDIFICIOS WAYNE
+# PRUEBAS EDIFICIOS WAYNE
 
-##REQUISITOS
+## REQUISITOS
 - PHP 8.0
 - Mysql
 - Composer
 
-##INSTALACION
+## INSTALACION
 
 - `composer install`
 - Crear tabla en mysql
@@ -14,7 +14,7 @@
 - Collect de postman en el archivo `/postman.json`
 - Csv de ejemplos : `/playes.csv` y `/teams.csv`
 
-##ARQUITECTURA API
+## ARQUITECTURA API
 
 Este proyecto no es recomendado para ambientes productivos, ya que solamente fue realizado para la prueba.
 
@@ -29,7 +29,7 @@ El microframework contiene
 
 Al momento de iniciar el proyecto, este ejecuta las migraciones de manera Automatica.
 
-##ARQUITECTURA HEXAGONAL
+## ARQUITECTURA HEXAGONAL
 - SOLID
 - IOC
 - CAPA DOMAIN
